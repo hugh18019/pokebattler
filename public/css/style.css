@@ -18,8 +18,8 @@
 }
 
 .home-title {
-    background-color: var(--primary);
-    
+    background-color: lightsteelblue;
+    padding: 30px;
     font-family: 'Press Start 2P', cursive;
 }
 
@@ -29,7 +29,7 @@
 }
 
 .background {
-    background-color: var(--background);
+    background-color:lightyellow;
     height: 100%;
 }
 
