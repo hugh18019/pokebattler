@@ -10,7 +10,16 @@
 
 #pokebattle {
     text-decoration: none;
-    color: var(--quarternary);
+    color: #fff;
+    text-shadow:
+    0 0 7px var(--quarternary),
+    0 0 10px var(--quarternary),
+    0 0 10px var(--quarternary),
+    0 0 10px var(--quarternary),
+    0 0 10px var(--quarternary),
+    0 0 10px var(--quarternary),
+    0 0 10px var(--quarternary),
+    0 0 10px var(--quarternary);
 }
 
 #nav {
@@ -18,7 +27,7 @@
 }
 
 .home-title {
-    background-color: lightsteelblue;
+    background-color: black;
     padding: 30px;
     font-family: 'Press Start 2P', cursive;
 }
@@ -29,7 +38,7 @@
 }
 
 .background {
-    background-color:lightyellow;
+    background-color:black;
     height: 100%;
 }
 
