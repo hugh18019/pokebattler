@@ -6,21 +6,17 @@
         src='https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/132.png'
         id='login-splash'
       />
-      <button
-        type='button'
-        class='btn btn-success'
-        id='playBtn'
-        href='/game_start'
-      >PLAY POKEBATTLE!</button>
+      <button type='button' class='btn btn-success' id='playBtn'>PLAY
+        POKEBATTLE!</button>
       <div>Logged in as {{username}}</div>
     </div>
   {{else}}
     <div class='col d-flex justify-content-center flex-row'>
       <img
-        src='https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/132.png'
-        style='border-radius: 20%; width: 500px; height: 500px;'
+        src='/images/home_signin_alt.png'
+        style='border-radius: 20%; width: 70%; height: 70%;'
+        data-img_credit="mxpux"
       />
-      <div>Please login!</div>
     </div>
   {{/if}}
 </div>

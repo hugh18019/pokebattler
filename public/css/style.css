@@ -47,11 +47,22 @@
 }
 
 #profile-card-body,
-#profile-no-pokemon {
+#profile-no-pokemon,
+.post-card {
     background-color: var(--quarternary);
 }
 
 .login-card {
     max-width: 300px;
     margin: 50px;
+}
+
+.battle-pokemon {
+    background-color: var(--tertiary);
+    color: var(--quarternary)
+}
+
+.battle-monster {
+    background-color: var(--secondary);
+    color: var(--quarternary)
 }
