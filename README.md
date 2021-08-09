@@ -74,8 +74,8 @@ Then open the application in browser at http://localhost:3001/
 
 **Huiran Lin**
 
-- [Portfolio](https://samyuhan.github.io/portfolio/)
-- [Github](https://github.com/samyuhan)
+- [Portfolio](https://hugh18019.github.io/Portfolio/)
+- [Github](https://github.com/hugh18019)
 
 **Samantha Yuhan**
 
