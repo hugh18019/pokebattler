@@ -24,3 +24,12 @@ Don't forget to seed the data as well.
 ``` console
 node seeds/index.js
 ```
+
+## Built With
+- [HTML](https://developer.mozilla.org/en-US/docs/Web/HTML)
+- [CSS](https://developer.mozilla.org/en-US/docs/Web/CSS)
+- [Javascript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+- [Node](https://nodejs.org/en/)
+- [NPM Packages](https://www.npmjs.com)
+- [GoogleFonts](https://fonts.google.com/)
+
